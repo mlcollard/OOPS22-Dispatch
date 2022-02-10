@@ -6,6 +6,7 @@
 
 #include <vector>
 
+void action() {}
 void action(int n) {}
 void action(double x) {}
 void action(char c) {}
